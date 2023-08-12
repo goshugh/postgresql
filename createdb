@@ -1,0 +1,2 @@
+create database f1db;
+alter database f1db set search_path to f1db, public;
